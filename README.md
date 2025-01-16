@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  Hi, I’m **Guy Thornton**! I’m a network engineer who sometimes has to automate things with code.- 🌱 I’m currently learning [technology you’re exploring].- 🔭 I’m working on [your project].- 💬 Ask me about [topics you’re knowledgeable in].- 📫 Reach me at: [your email or social media links].
 
 ## 🛠️ My Skills-
- **Languages:** **SQL, Visual Basic, Powershell (Although haven't used many in years)**
+ **Languages:** **SQL, Visual Basic, Powershell, C++, Python (Although haven't used many in years)**
 
  **Frameworks:** [e.g., React, Django]- **Tools:** [e.g., Git, Docker, VSCode]
 ## 📈 My GitHub Stats![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
